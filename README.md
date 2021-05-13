@@ -9,6 +9,8 @@ To impress clients, you should always go the extra mile and improve the codebase
 
 User Story AS A marketing agency I WANT a codebase that follows accessibility standards SO THAT our own site is optimized for search engines Acceptance Criteria GIVEN a webpage meets accessibility standards WHEN I view the source code THEN I find semantic HTML elements WHEN I view the structure of the HTML elements THEN I find that the elements follow a logical structure independent of styling and positioning WHEN I view the image elements THEN I find accessible alt attributes WHEN I view the heading attributes THEN they fall in sequential order WHEN I view the title element THEN I find a concise, descriptive title
 
+https://browntuckerr.github.io/Horiseon_Website/
+
 ![Screenshot (2)](https://user-images.githubusercontent.com/82062612/118198189-5f8c9780-b41e-11eb-8f43-c20fe863360a.png)
 ![Screenshot (3)](https://user-images.githubusercontent.com/82062612/118198212-6adfc300-b41e-11eb-993c-683a2e436cf5.png)
 ![Screenshot (4)](https://user-images.githubusercontent.com/82062612/118198215-6ddab380-b41e-11eb-9378-01394da0f059.png)
